@@ -15,6 +15,36 @@ Full-Stack Developer | Node.js • Express.js • MongoDB • MySQL • React.js
 
 ```
 
+## 👨‍💻 About Me
+```javascript
+const developer = {
+  name: "Sylar",
+  role: "Full-Stack Developer",
+  location: "Cairo, Egypt 🇪🇬",
+  languages: ["JavaScript", "SQL", "HTML", "CSS"],
+  currentFocus: "Building scalable web applications",
+  lifePhilosophy: "Code with passion, build with purpose 💙",
+  
+  techStack: {
+    frontend: ["React.js", "HTML5", "CSS3", "JavaScript (ES6+)"],
+    backend: ["Node.js", "Express.js", "REST APIs"],
+    databases: ["MongoDB", "SQL", "PostgreSQL"],
+    tools: ["Git", "GitHub", "VS Code", "Postman", "npm"]
+  },
+  
+  currentlyLearning: ["TypeScript", "Next.js"],
+  
+  askMeAbout: [
+    "Web Development",
+    "React.js",
+    "Node.js",
+    "Database Design",
+    "API Development"
+  ]
+};
+
+```
+
 ---
 
 ---
@@ -143,15 +173,6 @@ const learningPath = {
                                         – Thomas Fuchs
 ```
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 🎯 2025 Goals
 
