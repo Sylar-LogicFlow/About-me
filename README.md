@@ -13,33 +13,6 @@ Full-Stack Developer | Node.js • Express.js • MongoDB • MySQL • React.js
 
 ---
 
-## 👨‍💻 About Me
-```javascript
-const developer = {
-  name: "Your Name",
-  role: "Full-Stack Developer",
-  location: "Cairo, Egypt 🇪🇬",
-  languages: ["JavaScript", "SQL", "HTML", "CSS"],
-  currentFocus: "Building scalable web applications",
-  lifePhilosophy: "Code with passion, build with purpose 💙",
-  
-  techStack: {
-    frontend: ["React.js", "HTML5", "CSS3", "JavaScript (ES6+)"],
-    backend: ["Node.js", "Express.js", "REST APIs"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    tools: ["Git", "GitHub", "VS Code", "Postman", "npm"]
-  },
-  
-  currentlyLearning: ["TypeScript", "Docker", "Next.js"],
-  
-  askMeAbout: [
-    "Web Development",
-    "React.js",
-    "Node.js",
-    "Database Design",
-    "API Development"
-  ]
-};
 ```
 
 ---
